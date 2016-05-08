@@ -1,5 +1,10 @@
 package com.quicksand.problem;
-
+/**
+ * problem 21
+ * 求10000以下所有Amicabel数之和
+ * @author quicksand
+ *
+ */
 public class AmicabelNumbders {
 	public static void main(String[] args) {
 		int count = 0;

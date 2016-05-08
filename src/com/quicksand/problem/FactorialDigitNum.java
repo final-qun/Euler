@@ -2,7 +2,12 @@ package com.quicksand.problem;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * problem 20
+ * 求100的阶乘各个位数之和
+ * @author quicksand
+ *
+ */
 public class FactorialDigitNum {
 	public static List<Integer> digit = new ArrayList<Integer>();
 	public static void main(String[] args) {

@@ -1,5 +1,10 @@
 package com.quicksand.problem;
-
+/**
+ * problem 23
+ * 求所有不是两个abundant数之和的数之和
+ * @author quicksand
+ *
+ */
 public class AbundantNum {
 	public static int[] abundantNum = new int[28123];
 	public static void main(String[] args) {

@@ -10,7 +10,12 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
-
+/**
+ * problem 22
+ * 求指定文件所有名字的值和位置乘积之和
+ * @author quicksand
+ *
+ */
 public class CalculateNameValue {
 
 	public static void main(String[] args) {	
