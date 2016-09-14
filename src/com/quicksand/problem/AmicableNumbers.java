@@ -5,7 +5,7 @@ package com.quicksand.problem;
  * @author quicksand
  *
  */
-public class AmicabelNumbders {
+public class AmicableNumbers {
 	public static void main(String[] args) {
 		int count = 0;
 		for(int i = 2;i<10000;i++){

@@ -2,7 +2,11 @@ package com.quicksand.problem;
 
 import java.util.HashSet;
 import java.util.Set;
-
+/**
+ * problem 29
+ * @author Administrator
+ *
+ */
 public class DistinctPowers {
 	public static void main(String[] args) {
 		Set<Double> powers = new HashSet<Double>();

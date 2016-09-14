@@ -2,8 +2,12 @@ package com.quicksand.problem;
 
 import java.util.ArrayList;
 import java.util.List;
-
-public class DigitFibonacci {
+/**
+ * problem 25
+ * @author Administrator
+ *
+ */
+public class DigitFibonacciNumberOf1000 {
 	private static List<Integer> currentList = new ArrayList<Integer>();
 	private static List<Integer> foreList = new ArrayList<Integer>();
 	public static void main(String[] args) {

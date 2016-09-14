@@ -8,7 +8,7 @@ import java.util.List;
  * @author quicksand
  *
  */
-public class FactorialDigitNum {
+public class FactorialDigitSum {
 	public static List<Integer> digit = new ArrayList<Integer>();
 	public static void main(String[] args) {
 		digit.add(1);

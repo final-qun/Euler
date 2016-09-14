@@ -16,7 +16,7 @@ import java.util.List;
  * @author quicksand
  *
  */
-public class CalculateNameValue {
+public class NamesScores {
 
 	public static void main(String[] args) {	
 		System.out.println(getNamesCount(readFile()));

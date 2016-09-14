@@ -5,7 +5,7 @@ package com.quicksand.problem;
  * @author quicksand
  *
  */
-public class CalculateSunday {
+public class CountingSundays {
 	public static int calculateDayOfYear(int year,int month,int day){
 		int distanceYear = year - 1900;
 		int distanceDay = day -1;

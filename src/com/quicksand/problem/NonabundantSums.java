@@ -5,7 +5,7 @@ package com.quicksand.problem;
  * @author quicksand
  *
  */
-public class AbundantNum {
+public class NonabundantSums {
 	public static int[] abundantNum = new int[28123];
 	public static void main(String[] args) {
 		for(int i = 12;i<28123;i++){

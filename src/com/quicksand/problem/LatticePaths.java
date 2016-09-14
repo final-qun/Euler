@@ -5,7 +5,7 @@ package com.quicksand.problem;
  * @author quicksand
  *
  */
-public class LatticePath {
+public class LatticePaths {
 	//0,0 - 2,2
 	public static int count = 0;
 	public static int cloumn = 2;

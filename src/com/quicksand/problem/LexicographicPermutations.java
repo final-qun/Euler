@@ -8,7 +8,7 @@ import java.util.List;
  * @author quicksand
  *
  */
-public class Lexicographic {
+public class LexicographicPermutations {
 	public static List<Integer> ranke = new ArrayList<Integer>();
 	public static List<Integer> rank = new ArrayList<Integer>();
 	public static List<Integer> def = new ArrayList<Integer>();
